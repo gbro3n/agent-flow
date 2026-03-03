@@ -1,6 +1,6 @@
-# Agent Flow - Plan, Tasks, Implement
+**View on appsoftware.com:  [https://www.appsoftware.com/blog/agent-flow-plan-tasks-implement](https://www.appsoftware.com/blog/agent-flow-plan-tasks-implement)**
 
-This repository serves as a template for a flow I've been using for agent-assisted coding -with impressive results.
+The [agent-flow](https://github.com/gbro3n/agent-flow) repository serves as a template for a flow I've recently been using for agent-assisted coding - with impressive results.
 
 Even with the best models, agent-assisted coding can be hit and miss. A good `AGENTS.md` that covers most of the mistakes you find agents making can go a long way, but this flow has been producing outsized results over the last couple of weeks.
 
